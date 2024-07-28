@@ -138,7 +138,7 @@
         windows_default_layer {
             label = "Windows";
             bindings = <
-&kp B  &kp Q        &kp W  &kp F     &kp P     &kp G              &kp J             &kp L              &kp U              &kp Y    &kp BSPC        &none
+&kp A  &kp Q        &kp W  &kp F     &kp P     &kp G              &kp J             &kp L              &kp U              &kp Y    &kp BSPC        &none
 &none  &kp A        &kp R  &kp S     &kp T     &kp D              &kp H             &kp N              &kp E              &kp I    &kp O           &none
 &none  &bm LSHFT Z  &kp X  &kp C     &kp V     &kp B              &kp K             &kp M              &kp COMMA          &kp DOT  &bm RSHFT FSLH  &none
                            &kp LGUI  &kp LALT  &sm LCTRL SPACE    &lt WIN_CODE TAB  &lt WIN_NUM ENTER  &td_multi_windows
